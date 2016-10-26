@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Informacion</string>
+
+    <string name="large_text">
+        "Bienvenidos\n\n"
+
+
+        "3er. Congreso Internacional de Innovación Educativa,
+        ”Innovar para transformar”, es un espacio que te
+        permitirá ser parte de las tendencias y prácticas
+        que están revolucionando la educación en el
+        mundo.\n\n"
+
+        "Con este importante evento, que tiene una tradición
+        de ofrecerse anualmente desde el 2006, el
+        Tecnológico de Monterrey busca fomentar y
+        facilitar la experimentación e innovación entre
+        profesores, directivos, emprendedores y todos
+        aquellos interesados en educación, acercándolos
+        a las mejores experiencias nacionales e
+        internacionales, conectándolos  con expertos y
+        mostrándoles lo que otros educadores están
+        haciendo en materia de innovación educativa.\n\n"
+
+        "El Congreso se llevará a cabo del 12 al 14 de
+        diciembre del 2016 en el Campus Ciudad de
+        México del Tecnológico de Monterrey.\n\n"
+
+        "¡Súmate a esta experiencia de innovación
+        educativa y participa en la construcción de la
+        educación del futuro!\n\n"
+
+
+        "Objetivos\n\n"
+
+        "La participación activa en el Congreso permitirá:\n\n\n"
+
+
+        "- Conocer las tendencias y prácticas en innovación
+        educativa que están transformando la educación
+        en el mundo.\n\n"
+
+        "- Conectar con expertos de reconocimiento mundial.\n\n"
+
+        "- Identificar recursos para la mejora de la enseñanza
+        aprendizaje.\n\n"
+
+        "- Compartir su experiencia en la práctica docente.\n\n"
+
+        "- Colaborar con colegas e instituciones en temas
+        comunes.\n\n"
+
+        "- Construir acuerdos de trabajo en conjunto.\n\n"
+
+        "- Recibir el reconocimiento de sus colegas por la
+        innovación en su práctica docente.\n\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
